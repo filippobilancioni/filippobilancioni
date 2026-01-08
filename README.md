@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 
 💻 **Computer Engineer** | 🏠 **Home Lab Enthusiast** | 🌐 **Open Source Lover** | ☁️ **Cloud Explorer**
 
